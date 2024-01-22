@@ -2,7 +2,7 @@
 
 Currently learning the ins and outs of Web Development. An avid gamer, working towards making games combined with the web.
 
-Some games I have made can be found here on 🎮 [![itch.io](https://img.shields.io/badge/itchio-orange)](https://thurstontran.itch.io)) 
+Some games I have made can be found here on 🎮 [![itch.io](https://img.shields.io/badge/itchi.o-orange)](https://thurstontran.itch.io)) 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/thurstontran/))
 <!--
