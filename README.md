@@ -2,9 +2,9 @@
 
 Currently learning the ins and outs of Web Development. An avid gamer, working towards making games combined with the web.
 
-Some games I have made can be found here on 🎮 [itch.io](https://thurstontran.itch.io) 
+Some games I have made can be found here on 🎮 [itch.io](https://img.shields.io/badge/itchio-orange)(https://thurstontran.itch.io) 
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/thurstontran/))
 <!--
 **thurstontran/thurstontran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
