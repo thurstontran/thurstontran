@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently learning the ins and outs of Web Development. An avid gamer, working towards making games combined with the.
+Currently learning the ins and outs of Web Development. An avid gamer, working towards making games combined with the web.
 
 Some games I have made can be found here on 🎮 [itch.io](https://thurstontran.itch.io) 
 
