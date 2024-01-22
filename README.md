@@ -4,6 +4,7 @@ Currently learning the ins and outs of Web Development. An avid gamer, working t
 
 Some games I have made can be found here on 🎮 [itch.io](https://thurstontran.itch.io) 
 
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
 <!--
 **thurstontran/thurstontran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
