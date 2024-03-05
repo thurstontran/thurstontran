@@ -3,9 +3,9 @@
 
 I am currently working on my skills as a *Web Developer*. I am greatly interested with leveraging creative expression with programming and aim towards creating interactive projects that utilize a sense of creativity.
 
-🎮 As an avid gamer, I have also worked in teams as well as individually towards designing games. You can find some projects I've worked on my itch.io page [itch.io](https://thurstontran.itch.io)
+🎮 As an avid gamer, I have also worked in teams as well as individually towards designing games. You can find some projects I've worked on my [itch.io](https://thurstontran.itch.io) page.
 
-You can find me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/thurstontran/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/thurstontran/)
 <!--
 **thurstontran/thurstontran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
