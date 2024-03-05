@@ -1,10 +1,11 @@
 ## Hi there, I'm Thurston. 👋
-_______________________________________________________________________________________________________________________
-Currently learning the ins and outs of Web Development. An avid gamer, working towards making games combined with the web.
 
-Some games I have made can be found here on 🎮 [![itch.io](https://img.shields.io/badge/itch.io-orange)](https://thurstontran.itch.io)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/thurstontran/)
+I am currently working on my skills as a *Web Developer*. I am greatly interested with leveraging creative expression with programming and aim towards creating interactive projects that utilize a sense of creativity.
+
+🎮 As an avid gamer, I have also worked in teams as well as individually towards designing games. You can find some projects I've worked on my itch.io page [![itch.io](https://thurstontran.itch.io)
+
+You can find me on LinkedIn: [![LinkedIn](https://www.linkedin.com/in/thurstontran/)
 <!--
 **thurstontran/thurstontran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
