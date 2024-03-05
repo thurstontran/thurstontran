@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there, I'm Thurston. 👋
+_______________________________________________________________________________________________________________________
 Currently learning the ins and outs of Web Development. An avid gamer, working towards making games combined with the web.
 
 Some games I have made can be found here on 🎮 [![itch.io](https://img.shields.io/badge/itch.io-orange)](https://thurstontran.itch.io)
