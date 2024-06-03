@@ -1,7 +1,7 @@
 ## Hi there, I'm Thurston. 👋
 
 
-I am currently working on my skills as a *Web Developer*. I am greatly interested with leveraging creative expression with programming and aim towards creating interactive projects that utilize a sense of creativity.
+I am currently working on my skills as a *Web Developer & Designer*. I am greatly interested with leveraging creative expression with programming and aim towards creating interactive projects that utilize a sense of creativity.
 
 🎮 As an avid gamer, I have also worked in teams as well as individually towards designing games. You can find some projects I've worked on my [itch.io](https://thurstontran.itch.io) page.
 
